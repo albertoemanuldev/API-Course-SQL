@@ -43,14 +43,17 @@ http://localhost/nome-do-projeto/consultar.php
 
 📦 Exemplo de Resposta JSON
 Se o banco tiver uma tabela chamada alunos, a resposta pode ser semelhante a:
+
 [
   {
     "id": 1,
+    
     "nome": "João da Silva",
     "email": "joao@email.com"
   },
   {
     "id": 2,
+    
     "nome": "Maria Souza",
     "email": "maria@email.com"
   }
